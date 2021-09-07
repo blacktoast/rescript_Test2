@@ -1,21 +1,3 @@
-# ReScript Project Template
-
-The only official ReScript starter template.
-
-## Installation
-
-```sh
-npm install
-```
-
-## Build
-
-- Build: `npm run build`
-- Clean: `npm run clean`
-- Build & watch: `npm run start`
-
-## Run
-
-```sh
-node src/Demo.bs.js
+rescript 템플릿을 가져와서
+함수형 자바스크립트 프로그래밍 공부를 하는 repo
 ```
