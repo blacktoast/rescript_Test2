@@ -9,6 +9,8 @@
   "keywords": [
     "rescript"
   ],
+  "type": "module",
+
   "author": "",
   "license": "MIT",
   "dependencies": {
