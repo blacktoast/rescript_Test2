@@ -2,6 +2,6 @@
 'use strict';
 
 
-console.log("Hello, World!");
+console.log("Hell!");
 
 /*  Not a pure module */
